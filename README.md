@@ -1,3 +1,4 @@
+<h1>React Redux basic project setup using webpack</h1>
 <h3>Quick instruction</h3>
 <pre>
 clone/copy repository
