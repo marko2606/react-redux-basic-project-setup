@@ -75,7 +75,7 @@ npm start
 
 <h4>Webpack configuration</h4>
 <p>Here is what the webpack.config.js file looks like:</p>
-<code>
+<xpm>
 var path = require('path');
 var srcPath = path.join(__dirname, 'src');
 var buildPath = path.join(__dirname, 'dist');
@@ -104,7 +104,7 @@ module.exports = {
       ]
   }
 };
-</code>
+</xmp>
 <p>Again, let's break it down so that it's clear what this file is doing:</p>
 <ul>•	Firstly, we are requiring NodeJS's path module so that we can handle file paths, which is required for setting the object's context. It's very important to use this module rather than try and concatenate directories with strings, because some operating systems, like Windows, require this.</ul>
 <ul>•	Then, we specify a srcPath and a buildPath using the path module that we just required. Doing this will ensure we have DRY, readable code.</ul>
