@@ -13,11 +13,11 @@ npm start
 	</tr>
 	<tr>
 		<td>React</td>
-		<td>'An npm package to get you immediate access to React, without also requiring the JSX transformer.'</td>
+		<td>An npm package to get you immediate access to React, without also requiring the JSX transformer.</td>
 	</tr>
 	<tr>
 		<td>React DOM</td>
-		<td>'This package serves as the entry point of the DOM-related rendering paths. It is intended to be paired with the isomorphic React, which will be shipped as react to npm.'</td>
+		<td>This package serves as the entry point of the DOM-related rendering paths. It is intended to be paired with the isomorphic React, which will be shipped as react to npm.</td>
 	</tr>
 	<tr>
 		<td>React route</td>
@@ -25,15 +25,15 @@ npm start
 	</tr>
 	<tr>
 		<td>Webpack</td>
-		<td>'Allows to split your codebase into multiple bundles, which can be loaded on demand.'</td>
+		<td>Allows to split your codebase into multiple bundles, which can be loaded on demand.</td>
 	</tr>
 	<tr>
 		<td>Webpack Dev Server</td>
-		<td>'Serves a webpack app. Updates the browser on changes.'</td>
+		<td>Serves a webpack app. Updates the browser on changes.</td>
 	</tr>
 	<tr>
 		<td>Babel Loader</td>
-		<td>'Babel module loader for Webpack.'</td>
+		<td>Babel module loader for Webpack.</td>
 	</tr>
 	<tr>
 		<td>Babel Core</td>
