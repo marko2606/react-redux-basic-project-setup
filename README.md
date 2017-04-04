@@ -75,7 +75,7 @@ npm start
 
 <h4>Webpack configuration</h4>
 <p>Here is what the webpack.config.js file looks like:</p>
-<xpm>
+<xmp>
 var path = require('path');
 var srcPath = path.join(__dirname, 'src');
 var buildPath = path.join(__dirname, 'dist');
