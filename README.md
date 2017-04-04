@@ -119,4 +119,5 @@ module.exports = {
 </ul>
 <p>If webpack.config.js is confusing now, don't worry, as long as you understand what it is there to do.</p>
 <h3>Usefull tutorials</h3>
-<ul><a href=""></a></ul>
+<ul><a href="https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS">Basic React</a></ul>
+<ul><a href="https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_">Basic React-Redux</a></ul>
